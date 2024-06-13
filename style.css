@@ -43,6 +43,7 @@ p{
     body{ background-color: #1c1c1c;}
     #container {
         width: 100%;
+        height: auto;
         background-color: #1c1c1c;
         border: 1px solid #000;
         color: #f7f7f7;
